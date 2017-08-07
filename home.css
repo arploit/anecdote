@@ -1,0 +1,76 @@
+div.wrapper{
+/* wrapper class for whole website in which all the tag will reside  */
+    background-color: blanchedalmond;
+    margin: auto;
+    height: 1200px;
+    width: auto;
+}
+div.head{
+/* class where all the name of the website and login id will be shown    */
+    background-color: blueviolet;
+    height: 60px;
+     box-shadow: 10px 10px 5px #888888;
+}
+div.header{
+/* box for name of the website*/
+   
+    height: 60px;
+    color: whitesmoke;
+    font-size:  19px;
+    font-family: monospace;
+    float: left;
+    margin-bottom: 50px;
+    display: flex;
+    
+   
+}
+h1.header{
+/*for the text used inside the header div*/
+    font-size: 51px;
+/*    font-family: monospace;*/
+    margin-bottom: 15px;
+    margin-left: 500px;
+    
+}
+div.login{
+/* box used for the login which is shown inside the head*/
+ height: auto;
+    font-size: 13px;
+    float: right;
+    display: flex;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+}
+
+div.body{
+/* body of whole website will inside this*/
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    height: 600px;
+    width: 900px;
+    margin-top: -90px;
+    
+}
+div.trending-bar {
+/*  bar in which all the trending topic will be  shown*/
+    background-color: green;
+    height: 60px;
+    width: auto ;
+    margin-top:20px;
+    
+}
+div.Trending-tab{ 
+/* tab inside the trending-bar for in which words are kept*/
+    
+    height: 100px;
+    width: auto;
+   float: left;
+    margin-left: -160px;
+    margin-top: -11px;
+}
+h1.trend-text{
+/*    text that will be inside the trending-tab and t*/
+}
+
